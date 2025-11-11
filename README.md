@@ -2,6 +2,8 @@
 
 geo-ip-toolkit is an open-source platform offering unified access to extensive IP geolocation data, integrating information from leading data providers like ipinfo.io and ip-api.com. Designed for developers, analysts, and tech enthusiasts, it simplifies the retrieval of IP insights, enhancing applications in cybersecurity, analytics, and personalized content delivery.
 
+📖 **[Read the detailed technical blog post](https://abhimanyusikarwar.com/posts/geo-ip-toolkit-unified-geolocation-api/)** - Learn about the architecture, implementation details, and design decisions behind this project.
+
 ## Features
 
 - **Unified API**: Aggregate geolocation data from multiple sources through a single, simplified API.
